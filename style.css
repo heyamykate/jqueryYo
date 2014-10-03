@@ -1,0 +1,15 @@
+.description {
+    text-align: justify;
+}
+
+.jumbotron h1 {
+    text-align: center;
+}
+
+div.jumbotron {
+    text-align: center;
+}
+
+.terminate, .restore {
+    margin: 10px;
+}
